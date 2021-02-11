@@ -1,3 +1,3 @@
 # Home page
 
-## For setting up exsamples
+## For setting up examples
